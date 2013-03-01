@@ -1,0 +1,74 @@
+
+Algoritmo:
+Método que describe cómo se resuelve un problema en 
+término de las acciones que se ejecutan y especifica el 
+orden en que se ejecutan estas acciones. Los algoritmos 
+ayudan al programador a planificar un programa antes de 
+su escritura en un lenguaje de programación. 
+
+Análisis:
+ Proceso de identificación, modelado y descripción de lo 
+que hace un sistema y de cómo trabaja 
+
+Array (arreglo):
+ Objeto contenedor que almacena una secuencia indexada 
+de los mismos tipos de datos. Normalmente los elementos 
+individuales se referencian por el valor de un índice. El 
+índice es un valor entero que , suele comenzar, en 0 para el 
+primer elementos, 1 para el segundo y así sucesivamente. 
+
+Clase:
+ Colección encapsulada de datos y operaciones que actúan 
+sobre los datos. El concepto de clase es fundamental en 
+programación orientada a objetos. Una clase consta 
+demétodos y datos. Los métodos de una clase definen el 
+conjunto de operaciones permitidas sobre los datos de una 
+clase (sus atributos). Una clase puede tener muchas 
+instancia de la clase u objetos. 
+
+Compilador:
+ Programa de software que realiza un proceso de 
+compilación (traducción del lenguaje fuente a lenguaje 
+máquina) de un programa escrito en un lenguaje de 
+programación de alto nivel. En el caso de Java, es un 
+programa que traduce el código fuente Java en bytecode. El 
+
+Constante (constant):
+ Una variable declarada en final en Java. Una constante de 
+la clase normalmente está compartida por todos los objetos 
+de la misma clase; por consiguiente, una constante de clase 
+se declara normalmente como static. Una constante 
+local es una constante declarada dentro de un método. 
+
+Constante de la clase:
+Variable definida como final y static.
+
+Constructor:
+ Método especial utilizado para inicializar el estado de un 
+nuevo objeto. El constructor permite crear objetos 
+utilizando el operador new. El constructor tiene 
+exactamente el mismo nombre que la clase que lo contiene. 
+Los constructores se pueden sobrecargar con el objetivo de 
+facilitar la construcción de objetos con diferentes tipos de 
+valores iniciales. 
+
+Constructor por defecto:
+Constructor que no tiene parámetros y sirve para inicalizar 
+un objeto. 
+
+Diagrama de clases:
+Una representación gráfica construida utilizando una 
+notación formal para visualizar y documentar las relaciones 
+entre clases de un sistema.
+
+JDK (Java development kit):
+Define el APJ de Java y contiene un conjunto de utilidades 
+de líneas de órdenes tales como Javac (compilador) y 
+Java(interprete).
+
+Objeto instancia:
+Un objeto instancia es un representación de un valor del 
+tipo implementado por su clase. La clase declara un objeto 
+de variables, instancia que forman la estructura de un 
+objeto y un conjunto de métodos que se pueden llamar en 
+un objeto.
