@@ -1,0 +1,11 @@
+Public class Plaza { 
+public static void printPlaza(int x){ 
+System.out.println(x*x); 
+} 
+public static void main(String[] arguments){ 
+int valor = 2; 
+printPlaza(valor); 
+printPlaza(3); 
+printPlaza(valor*2); 
+} 
+}
